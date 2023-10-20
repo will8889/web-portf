@@ -94,13 +94,13 @@ function Home() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Web Developer (internship) - PT. Sentra Solusi Informatika
+            Application Developer (internship) - PT. Sentra Solusi Informatika
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Jakarta, Indonesia
           </h4>
-          <p>Create pages based on given design</p>
-          <p>Work together with QA team to make sure the page is up to standard</p>
+          <p>Create web application pages based on given design</p>
+          <p>Work together with QA team to make sure the pages is up to standard</p>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
